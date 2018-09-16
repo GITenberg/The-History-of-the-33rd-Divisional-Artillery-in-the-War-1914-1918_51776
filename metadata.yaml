@@ -1,0 +1,33 @@
+_repo: The-History-of-the-33rd-Divisional-Artillery-in-the-War-1914-1918_51776
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Horne, Henry
+    alias: Lord Horne of Stirkoke
+    birthdate: 1861
+    deathdate: 1929
+    gutenberg_agent_id: '46609'
+    url: http://www.gutenberg.org/2009/agents/46609
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Horne,_1st_Baron_Horne
+creator:
+  author:
+    agent_name: Macartney-Filgate, John Victor
+    gutenberg_agent_id: '46551'
+    url: http://www.gutenberg.org/2009/agents/46551
+description: ''
+gutenberg_issued: '2016-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51776'
+  lccn: '61055046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. Royal Regiment of Artillery. Divisional Artillery, 33rd'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcc 'D501'
+- GITenberg
+title: The History of the 33rd Divisional Artillery, in the War, 1914-1918.
+url: http://www.gutenberg.org/ebooks/51776
