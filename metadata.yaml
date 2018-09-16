@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '46609'
     url: http://www.gutenberg.org/2009/agents/46609
     wikipedia: https://en.wikipedia.org/wiki/Henry_Horne,_1st_Baron_Horne
+covers:
+- cover_type: archival
+  image_path: 51776-h/images/cover.jpg
 creator:
   author:
     agent_name: Macartney-Filgate, John Victor
     gutenberg_agent_id: '46551'
     url: http://www.gutenberg.org/2009/agents/46551
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51776#The-History-of-the-33rd-Divisional-Artillery-in-the-War-1914-1918
 gutenberg_issued: '2016-04-17'
 gutenberg_type: Text
 identifiers:
